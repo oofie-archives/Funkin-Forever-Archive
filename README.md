@@ -1,19 +1,33 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/f8a0c798d16d29b223a5027ca30b6e3596652ad30ca4a17aadc37833367dc728/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3832313735383831383133353537323439312f3838343236373235323335373135363933342f46454c6f676f2e706e673f77696474683d31303935266865696768743d363736" width="800"/></a>
-  <h1 align="center">Friday Night Funkin': Forever Engine [ARCHIVE]</h1>
+  <img src="https://raw.githubusercontent.com/oofienoob/Funkin-Forever-Archive/feather/art/iconOG.png" width="400"/></a>
+  <h1 align="center">Forever Engine Feather</h1>
+  <h2 align="center">An open-source, community driven Friday Night Funkin' mod engine, based on Forever Engine Legacy!</h2>
 </p>
 
------------------------------------------------------
-Due to recent events, [Yoshubs / CubicYoshi / Cubii](https://github.com/Yoshubs)'s github account has been deleted
+----------------------------------------------
+Forever Engine Feather is currently in a Work in Progress stage, maintained by the main developers and contributors.
 
-in order to preserve her hard work on this project, [I, Gabriela](https://github.com/BeastlyGabi) have archived the files for all versions of Forever Engine I had saved on separate repositories.
+----------------------------------------------
+**FOREVER ENGINE FEATHER REQUIRES THE LATEST FLIXEL LIBRARIES TO BE INSTALLED**.
 
-* [Legacy](https://github.com/oofienoob/Funkin-Forever-Archive/tree/legacy)
-* [1.0 (UNFINISHED)](https://github.com/oofienoob/Funkin-Forever-Archive/tree/rewrite)
-* [Hybrid](https://github.com/oofienoob/Funkin-Forever-Archive/tree/hybrid)
-* [Feather](https://github.com/oofienoob/Funkin-Forever-Archive/tree/feather)
-* [Somekitten](https://github.com/oofienoob/Funkin-Forever-Archive/tree/somekitten)
+**I AM NOT RESPONSIBLE FOR CRASHES / ISSUES WITH OLDER VERSIONS OF FLIXEL, NOR I AM RESPONSIBLE FOR MAINTAINING SAID VERSIONS**.
 
-**thank you for your effort Cubii, and stay safe.**
+----------------------------------------------
+# Features:
+* All of [Forever Engine Legacy](https://github.com/Yoshubs/Forever-Engine-Legacy)'s Features;
+* A Scripting System based on HScript, [SScript](https://github.com/AltronMaxX/SScript);
+* Reorganized ``source/`` folder;
+* An [Events](/assets/events) System based on [Hypno's Lullaby](https://github.com/PopcornColonell/hypnosource);
+* Fully Softcoded [Game Weeks](/assets/weeks) and [Characters](/assets/characters).
 
-~ **Sincerely, BeastlyGhost**
+----------------------------------------------
+### To see changes made to the engine, check out the CHANGELOG [here](/docs/CHANGELOG.md).
+
+### If you want to push out improvements to Feather faster, take a look at the TODO list [here](/TODO).
+
+### For documentation like a guide for compiling, script variables and more, visit our repository's [Wiki](https://github.com/BeastlyGhost/Forever-Engine-Feather/wiki).
+
+----------------------------------------------
+### Need help? Want to give feedback? 
+
+Open an Issue on the [Issues](https://github.com/BeastlyGhost/Forever-Engine-Feather/issues/) page or send me a Direct Message on my Discord, at [BeastlyGhost#9035](https://discord.com/users/597124141530742805).
