@@ -1,19 +1,69 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/f8a0c798d16d29b223a5027ca30b6e3596652ad30ca4a17aadc37833367dc728/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3832313735383831383133353537323439312f3838343236373235323335373135363933342f46454c6f676f2e706e673f77696474683d31303935266865696768743d363736" width="800"/></a>
-  <h1 align="center">Friday Night Funkin': Forever Engine [ARCHIVE]</h1>
+  <img src="https://media.discordapp.net/attachments/916918345255751690/930068118938730526/legacy.png" width="750"/></a>
+  <h1 align="center">Forever Engine Legacy</h1>
+  <h2 align="center">An open-source, quality of life and performance driven Friday Night Funkin' mod engine!</h2>
 </p>
 
------------------------------------------------------
-Due to recent events, [Yoshubs / CubicYoshi / Cubii](https://github.com/Yoshubs)'s github account has been deleted
+----------------------------------------------
+Forever Engine is currently in *legacy* state as it is being rewritten. 
 
-in order to preserve her hard work on this project, [I, Gabriela](https://github.com/BeastlyGabi) have archived the files for all versions of Forever Engine I had saved on separate repositories.
+The legacy version of Forever Engine lacks accessibility and cohesion, something we are currently working to fix with the more newer and updated rewrite.
 
-* [Legacy](https://github.com/oofienoob/Funkin-Forever-Archive/tree/legacy)
-* [1.0 (UNFINISHED)](https://github.com/oofienoob/Funkin-Forever-Archive/tree/rewrite)
-* [Hybrid](https://github.com/oofienoob/Funkin-Forever-Archive/tree/hybrid)
-* [Feather](https://github.com/oofienoob/Funkin-Forever-Archive/tree/feather)
-* [Somekitten](https://github.com/oofienoob/Funkin-Forever-Archive/tree/somekitten)
+**FOREVER ENGINE LEGACY IS ONLY MEANT TO BE USED ON DESKTOP! I AM NOT RESPONSIBLE FOR CRASHES/PROBLEMS WITH HTML5, NOR AM I RESPONSIBLE FOR MAINTAINING HTML5.**
 
-**thank you for your effort Cubii, and stay safe.**
+----------------------------------------------
+# Features:
+* Noteskins;
+* Custom UIs;
+* Options Menu with FPS Capping and Adjustments;
+* A lot of modularity and freedom with options
+    * (Hopefully in the future *everything* will be toggleable);
+* A restructure/partial remake of the base game's codebase;
+* ``source/`` folder abstraction;
+* More streamlined code
+    * (only having to set things in one place).
 
-~ **Sincerely, BeastlyGhost**
+AND MORE!
+
+----------------------------------------------
+# Credits:
+* [Yoshubs](https://github.com/Yoshubs) (me!):
+    * made the engine,
+    * happens to be very fucking stupid for accidentally pushing the martian mixtape source code into legacy's base github page;
+* [Pixloen](https://github.com/PixlJacket):
+    * made a lot of custom assets that legacy uses,
+    * gave me a lot of advice on how to improve the engine as well as his input on how to improve upon the base game and how the input system felt and such,
+    * programmed simply judgements and background darken
+    * basically co-owns the engine lmao;
+* [Gedehari](https://github.com/gedehari):
+    * BANGER ASS PROGRAMER,
+    * made the freeplay loading thread to avoid lag issues in freeplay,
+    * waveform render code (which will be used soon),
+    * EXTERNAL SHADER SUPPORT for modcharts when they're a thing,
+    * so many other things (like the crash logger);
+
+I urge you to check out his project, [Izzy Engine](https://github.com/gedehari/IzzyEngine), which he let me borrow a lot of aspects from which I still owe him for lmao. AWESOME dude I can't stress this enough.
+
+* [ImCodist](https://github.com/ImCodist):
+    * helped with a couple of pull requests and issue fixes,
+    * MADE THE WHOLE ASS FREAKING DIALOGUE SYSTEMbut, I'm not gonna give him any credit at all, because he stole my obsidian soul in minecraft and I will never forgive him for that!!!!
+* [Scarlett](https://github.com/SomeKitten):
+    * Overall cool friend of mine who knows a lot about programming and math that has helped me out countless times,
+    * still going here helping me with pushes, commits, etc.,
+    * she wrote the finalized math formula for the note quants and fixed the song name issue;
+* [Oneilr](https://oneilr.newgrounds.com/):
+    * Cool Guy Oneilr,
+    * made some of the custom assets, mostly the animated ones like the custom note splashes to avoid the week 7 embargo as well as some other things like the checkmarks in the options menu;
+* [HelloSammu](https://github.com/hellosammu):
+    * weird catfgirl programmer, they scare me,
+    * CREDIT MAINTENANCE AND SOME MISC FIXES,
+    * also scaleable text for dialogue functions;
+* the entire Funkin' crew:
+    * THEY MADE THE BASE GAME EXIST SO LIKE WITHOUT THEM THIS WOULD NOT HAVE BEEN POSSIBLE GO CHECK THEM OUT RIGHT NOW;
+
+----------------------------------------------
+## For compiling help, check out this little guide [here](/docs/COMPILE-HELP.md).
+## To see changes made to the engine, check out the changelog [here](/CHANGELOG.md).
+----------------------------------------------
+<h1 align="center">Thank you for checking out my engine!</h1>
+<h2 align="center">Got any questions? DM me at Yoshubs#0404 on Discord!</h2>
